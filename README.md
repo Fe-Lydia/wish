@@ -1,0 +1,2 @@
+# wish
+mysql in nodejs
